@@ -9,3 +9,4 @@
 - [x] Aula 3 - Indentação
 - [x] Aula 4 - Live Server
 - [x] Aula 5 - Títulos e Parágrafos
+- [x] Aula 6 - Formatação de Texto 

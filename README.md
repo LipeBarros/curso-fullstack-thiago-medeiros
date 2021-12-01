@@ -8,3 +8,4 @@
 - [x] Aula 2 - Tags HTML
 - [x] Aula 3 - Indentação
 - [x] Aula 4 - Live Server
+- [x] Aula 5 - Títulos e Parágrafos

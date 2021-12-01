@@ -5,3 +5,6 @@
 
 ### 1 - HTML Básico
 - [x] Aula 1 - Introdução sobre tags e atributos.
+- [x] Aula 2 - Tags HTML
+- [x] Aula 3 - Indentação
+- [x] Aula 4 - Live Server

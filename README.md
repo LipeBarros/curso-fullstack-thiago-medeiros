@@ -22,3 +22,4 @@
 - [x] Aula 7 - Aplicação de espaço interno - padding
 - [x] Aula 8 - Criando sombra utilizando auxilio do devtools
 - [x] Aula 9 - Fazendo ajustes de texto
+- [x] Aula 10 - Estilizando o currículo

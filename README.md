@@ -16,3 +16,4 @@
 - [x] Aula 1 - Importação de estilo css
 - [x] Aula 2 - Aplicando e diferenciando tags de css 
 - [x] Aula 3 - Usando cores 
+- [x] Aula 4 - Aplicando funções de background e suas diferenciações 

@@ -21,3 +21,4 @@
 - [x] Aula 6 - Aplicabilidade de margin
 - [x] Aula 7 - Aplicação de espaço interno - padding
 - [x] Aula 8 - Criando sombra utilizando auxilio do devtools
+- [x] Aula 9 - Fazendo ajustes de texto

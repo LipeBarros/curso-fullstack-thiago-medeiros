@@ -20,3 +20,4 @@
 - [x] Aula 5 - Uso e tipos de bordas 
 - [x] Aula 6 - Aplicabilidade de margin
 - [x] Aula 7 - Aplicação de espaço interno - padding
+- [x] Aula 8 - Criando sombra utilizando auxilio do devtools

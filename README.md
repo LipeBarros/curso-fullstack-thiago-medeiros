@@ -21,5 +21,6 @@
 - [x] Aula 6 - Aplicabilidade de margin
 - [x] Aula 7 - Aplicação de espaço interno - padding
 - [x] Aula 8 - Criando sombra utilizando auxilio do devtools
-- [x] Aula 9 - Fazendo ajustes de texto
+- [x] Aula 9 - Fazendo ajustes nos estilos de texto
 - [x] Aula 10 - Estilizando o currículo
+- [X] Aula 11 - Estilização de listas, divs, títulos e footer

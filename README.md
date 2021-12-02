@@ -10,3 +10,4 @@
 - [x] Aula 4 - Diferenciação de Títulos e Parágrafos
 - [x] Aula 5 - Aplicando formatação de Texto
 - [x] Aula 6 - Demostraçao do uso de Imagens,links e listas
+- [x] Aula 7 - Aplicando navegação entre páginas

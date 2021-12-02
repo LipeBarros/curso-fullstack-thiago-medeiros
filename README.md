@@ -13,4 +13,5 @@
 - [x] Aula 7 - Aplicando navegação entre páginas
 
 ### 2 - CSS Básico
-- [x] Aula 1 - Importação de estilo css 
+- [x] Aula 1 - Importação de estilo css
+- [x] Aula 2 - Aplicando e diferenciando tags de css 

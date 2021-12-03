@@ -29,3 +29,4 @@
 - [x] Aula 1 - Personalização de avatar e aplicação de background-color
 - [x] Aula 2 - Aplicação de fonte externa , estilização de avatar e gradiente em background
 - [x] Aula 3 - Criando menu de redes sociais
+- [x] Aula 4 - Intrudução ao Flexbox

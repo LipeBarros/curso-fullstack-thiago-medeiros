@@ -39,6 +39,13 @@ h2{
     text-align: center;
 }
 
+.social{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 10px 0;
+}
+
 .social img{
     width: 33px;
 }

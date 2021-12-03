@@ -31,3 +31,4 @@
 - [x] Aula 3 - Criando menu de redes sociais
 - [x] Aula 4 - Intrudução ao Flexbox
 - [x] Aula 5 - Criação e estilização de links em caixas
+- [x] Aula 6 - Liveserver no celular e direcionamento para whatsapp

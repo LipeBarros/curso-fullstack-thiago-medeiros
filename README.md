@@ -32,3 +32,6 @@
 - [x] Aula 4 - Intrudução ao Flexbox
 - [x] Aula 5 - Criação e estilização de links em caixas
 - [x] Aula 6 - Liveserver no celular e direcionamento para whatsapp
+
+### 4 - HTML Intermédiario
+- [x] Aula 1 - Criando projeto com navegação entre páginas

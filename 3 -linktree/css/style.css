@@ -49,3 +49,27 @@ h2{
 .social img{
     width: 33px;
 }
+
+.links-list{
+    list-style: none;
+}    
+
+.links-list li{
+    margin: 10px 20px;
+}
+
+.links-list li a {
+    background: white;
+    padding: 15px 20px;
+    display: block;
+    border-radius: 4px;
+    text-decoration: none;
+    color: rgb(54,77,204);
+    font-weight: bold;
+}
+
+.links-list li a span{
+    color:grey;
+    display: block;
+    margin-top: 10px;
+}

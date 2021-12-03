@@ -26,4 +26,4 @@
 - [X] Aula 11 - Estilização de listas, divs, títulos e footer
 
 ### 3 - Projeto Linketree
--[x] Aula 1 - Personalização de avatar e aplicação de background-color
+- [x] Aula 1 - Personalização de avatar e aplicação de background-color

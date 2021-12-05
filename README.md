@@ -35,3 +35,4 @@
 
 ### 4 - HTML Intermédiario
 - [x] Aula 1 - Criando projeto com navegação entre páginas
+- [x] Aula 2 - Aperfeiçoando semantica com as tags - section,nav e article

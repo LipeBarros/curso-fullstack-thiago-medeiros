@@ -8,6 +8,12 @@
 
 body{
     font-family: sans-serif;
+    
+}
+
+h1,h2,h3,h4,p,img, iframe{
+    margin-left: 20px;
+    margin-bottom: 15px;
 }
 
 .header {
@@ -30,4 +36,10 @@ body{
 .content{
     width: 70%;
     background: #d8d8d8;
+}
+
+footer{
+    background: gray;
+    padding: 20px 0;
+    text-align: center;
 }

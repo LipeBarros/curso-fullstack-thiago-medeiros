@@ -37,3 +37,4 @@
 - [x] Aula 1 - Criando projeto com navegação entre páginas
 - [x] Aula 2 - Aperfeiçoando semantica com as tags - section,nav e article
 - [x] Aula 3 - Mini projeto com navegaçao entre páginas e semântica
+- [x] Aula 4 - Seletores e Combinadores

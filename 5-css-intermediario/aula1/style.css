@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.exemplo{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.exemplo1 .red{
+    color: red;
+}
+
+.margin{
+    margin: 10px;
+}
+
+h1, h2, h3{
+    color: blue;
+}
+
+.exemplo2 > p{
+    color: orange;
+}
+
+.exemplo3 + p{
+    color: red;
+}
+
+.exemplo4 ~ p{
+    color: green;
+}

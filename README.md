@@ -41,3 +41,4 @@
 - [x] Aula 1 - Mini projeto com navegaçao entre páginas e semântica
 - [x] Aula 2 - Seletores e Combinadores
 - [x] Aula 3 - Aplicando visibility,opacity e display none
+- [x] Aula 4 - Overflow

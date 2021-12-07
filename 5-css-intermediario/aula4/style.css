@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+ul{
+    background: grey;
+    padding: 20px;
+    /* display: none;*/
+    /* visibility: 5px;*/
+    opacity: 0.5;
+}
+
+ul li {
+    display: inline;
+    margin: 20px;
+}

@@ -14,7 +14,7 @@
 
 ### 2 - CSS Básico
 - [x] Aula 1 - Importação de estilo css
-- [x] Aula 2 - Aplicando e diferenciando tags de css 
+- [x] Aula 2 - Aplicando e diferenciando propriedades de css 
 - [x] Aula 3 - Usando cores 
 - [x] Aula 4 - Aplicando funções de background e suas diferenciações 
 - [x] Aula 5 - Uso e tipos de bordas 
@@ -44,4 +44,5 @@
 - [x] Aula 4 - Overflow
 - [x] Aula 5 - Utilizando pseudo classes
 - [x] Aula 6 - Aplicando pseudo elementos
-- [x] AUla 7 - Testando position fixed, absolute e relative
+- [x] Aula 7 - Testando position fixed, absolute e relative
+- [x] Aula 8 - Projeto Menu e sub-menus responsivos

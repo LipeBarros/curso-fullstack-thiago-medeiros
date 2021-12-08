@@ -44,3 +44,4 @@
 - [x] Aula 4 - Overflow
 - [x] Aula 5 - Utilizando pseudo classes
 - [x] Aula 6 - Aplicando pseudo elementos
+- [x] AUla 7 - Testando position fixed, absolute e relative

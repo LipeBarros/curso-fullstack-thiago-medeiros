@@ -43,3 +43,4 @@
 - [x] Aula 3 - Aplicando visibility,opacity e display none
 - [x] Aula 4 - Overflow
 - [x] Aula 5 - Utilizando pseudo classes
+- [x] Aula 6 - Aplicando pseudo elementos

@@ -48,4 +48,5 @@
 - [x] Aula 8 - Projeto Menu e sub-menus responsivos
 
 ### 6 - HTML Avançado
-- [x] Aula  - Usando Form,Input e Button
+- [x] Aula 1 - Usando Form,Input e Button
+- [x] Aula 2 - Aplicando label e types

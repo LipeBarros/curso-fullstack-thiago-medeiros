@@ -50,3 +50,4 @@
 ### 6 - HTML Avançado
 - [x] Aula 1 - Usando Form,Input e Button
 - [x] Aula 2 - Aplicando label e types
+- [x] Aula 3 - Utilizando Option e Checkbox em formulário

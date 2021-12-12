@@ -52,3 +52,4 @@
 - [x] Aula 2 - Aplicando label e types
 - [x] Aula 3 - Utilizando Option e Checkbox em formulário
 - [x] Aula 4 - Caixa de seleção - select
+- [x] Aula 5 - Finalização de Formulário - Datalist,textarea,fieldset

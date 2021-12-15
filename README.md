@@ -55,5 +55,5 @@
 - [x] Aula 5 - Finalização de Formulário - Datalist,textarea,fieldset
 
 ### 7 - Página de Captura
--[x] Desenvolvimento de HTML e design
--[x] Utilizando Mailchimp
+- [x] Desenvolvimento de HTML e design
+- [x] Utilizando Mailchimp

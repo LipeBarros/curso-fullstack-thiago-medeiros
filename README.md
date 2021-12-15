@@ -53,3 +53,7 @@
 - [x] Aula 3 - Utilizando Option e Checkbox em formulário
 - [x] Aula 4 - Caixa de seleção - select
 - [x] Aula 5 - Finalização de Formulário - Datalist,textarea,fieldset
+
+### 7 - Página de Captura
+-[x] Desenvolvimento de HTML e design
+-[x] Utilizando Mailchimp

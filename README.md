@@ -57,3 +57,6 @@
 ### 7 - Página de Captura
 - [x] Desenvolvimento de HTML e design
 - [x] Utilizando Mailchimp
+
+### 8 - CSS - Avançado
+- [x] Aula 1 - Utilizando variáveis para estilização 

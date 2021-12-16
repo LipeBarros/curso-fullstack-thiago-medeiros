@@ -60,3 +60,4 @@
 
 ### 8 - CSS - Avançado
 - [x] Aula 1 - Utilizando variáveis para estilização 
+- [x] Aula 2 - Importaçoes de variáveis

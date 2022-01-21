@@ -12,6 +12,11 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
 /**************
 *     HOME
 ***************/
@@ -96,4 +101,31 @@ body{
 
 .home .banner .slogan2{
     margin-top: 15px;
+}
+
+/***********
+*   ABOUT
+************/
+
+.about{
+    height: 100vh;
+    background-color: var(--color-primary);
+}
+
+.about .container{
+    display: flex;
+}
+
+.about .timing{
+    padding: 20px;
+    background-image: url(../imagens/brush-big.jpg);
+    width: 33%;
+}
+
+.about .timing .overlay{
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.about .experience{
+    width: 66%;
 }
